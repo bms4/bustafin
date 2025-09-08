@@ -81,19 +81,19 @@ backend и frontend компоненты, что сократило время �
 Английский — B2 — Средне-продвинутый  
 
 ### Навыки
-**Тестирование:** Manual & Automated Testing, Bug Reporting, Test Cases, AQA, API Testing
-**Автоматизация:** Python, Pytest, Selenium, Playwright, Pydantic
-**Инструменты:** Postman, DBeaver, Jira, Git, GitLab CI, Jenkins, CI/CD, Allure Report
-**Мониторинг/Логи:** Kibana, Graylog, Grafana, Opensearch
-**Базы Данных:** SQL, PostgreSQL,SQLlite
-**ОС/Сети:** Linux, SSH, HTTP-HTTPS,
-**Методологии:** Scrum, Scrumban, Agile
+**Тестирование:** Manual & Automated Testing, Bug Reporting, Test Cases, AQA, API Testing  
+**Автоматизация:** Python, Pytest, Selenium, Playwright, Pydantic  
+**Инструменты:** Postman, DBeaver, Jira, Git, GitLab CI, Jenkins, CI/CD, Allure Report  
+**Мониторинг/Логи:** Kibana, Graylog, Grafana, Opensearch  
+**Базы Данных:** SQL, PostgreSQL,SQLlite  
+**ОС/Сети:** Linux, SSH, HTTP-HTTPS,  
+**Методологии:** Scrum, Scrumban, Agile  
 
 
 ### Дополнительная информация
-Обо мне Я Automation QA Engineer с опытом работы более 3,5 лет. Пишу автотесты на стеке: python,
-pytest, requests, pydantic, playwright, allure-report. Имею высшее техническое образование,
-стремлюсь к постоянному развитию: смотрю митапы, читаю книги.
-ТГ: @GoseFellin
+Обо мне Я Automation QA Engineer с опытом работы более 3,5 лет. Пишу автотесты на стеке: python,  
+pytest, requests, pydantic, playwright, allure-report. Имею высшее техническое образование,  
+стремлюсь к постоянному развитию: смотрю митапы, читаю книги.  
+ТГ: @GoseFellin  
 
 

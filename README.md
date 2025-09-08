@@ -81,7 +81,29 @@ backend и frontend компоненты, что сократило время �
 Английский — B2 — Средне-продвинутый  
 
 ### Навыки
-```
+**Тестирование:**
+*   Manual Testing, Automated Testing
+*   Bug Reporting
+*   Test Case Design
+*   API Testing
+**Автоматизация и Программирование:**
+*   Python
+*   Pytest, Selenium, Playwright
+*   Pydantic
+**Инструменты и Платформы:**
+*   Postman, DBeaver
+*   Atlassian Jira, Git, GitLab CI, GitHub Actions
+*   Kibana, Graylog, Grafana
+*   Jenkins, CI/CD
+*   Allure Report
+**Базы Данных:**
+*   SQL, PostgreSQL
+**Операционные Системы и Сети:**
+*   Linux, SSH
+*   HTTP
+**Методологии:**
+*   Scrum
+
 #### Навыки Postman SQL Atlassian Jira Manual testing Bug Reporting Python
 #### SSH Git Test case DBeaver Pytest Allure GitLab CI AQA API
 #### Pydantic Selenium Тестирование Автоматизированное тестирование

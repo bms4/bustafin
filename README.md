@@ -100,15 +100,10 @@ backend и frontend компоненты, что сократило время �
 *   SQL, PostgreSQL
 **Операционные Системы и Сети:**
 *   Linux, SSH
-*   HTTP
+*   HTTP, HTTPS
 **Методологии:**
-*   Scrum
+*   Scrum, Agile, Scramban, 
 
-#### Навыки Postman SQL Atlassian Jira Manual testing Bug Reporting Python
-#### SSH Git Test case DBeaver Pytest Allure GitLab CI AQA API
-#### Pydantic Selenium Тестирование Автоматизированное тестирование
-#### Kibana Graylog Grafana PostgreSQL Scrum Linux HTTP Jenkins
-#### CI/CD
 
 ### Дополнительная информация
 Обо мне Я Automation QA Engineer с опытом работы более 3,5 лет. Пишу автотесты на стеке: python,
